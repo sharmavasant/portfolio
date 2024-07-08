@@ -15,7 +15,7 @@ const Home = () => (
       <HeroSubtitle>
         I'm passionate about problem-solving and web development
       </HeroSubtitle>
-      <Button href="/contact">Get in Touch</Button>
+      {/* <Button href="/contact">Get in Touch</Button> */}
     </HeroSection>
     <AboutSection>
       <h2>About Me</h2>
